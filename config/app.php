@@ -195,7 +195,7 @@ return [
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
     'Form'      => 'Illuminate\Html\FormFacade',
-    'Flash' => 'Laracasts\Flash\Flash',
+    'Flash'     => 'Laracasts\Flash\Flash',
 
 	],
 
