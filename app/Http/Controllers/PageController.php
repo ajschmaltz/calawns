@@ -44,7 +44,7 @@ class PageController extends Controller {
   public function quote(Request $request)
   {
 
-    Mail::send('emails.quote', $request->all(), function($message)
+    Mail::send('emails.quote', ['empty' => 'stuff'], function($message)
     {
       $message->to('drew@mainstreetmower.com', 'Drew Schmaltz')->subject('New Quote!');
     });
