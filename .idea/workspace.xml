@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7b52f47-dc76-41e9-b1ae-a56d108cc284" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/page/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/page/home.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
     </list>
     <ignored path="calawns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quote.blade.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="quote.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/emails/quote.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.1879085" vertical-offset="0" max-vertical-offset="612">
+            <state line="5" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="276">
               <folding />
             </state>
           </provider>
@@ -54,11 +52,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PageController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PageController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="908" selection-end="908" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1380">
-              <folding />
+            <state line="46" column="7" selection-start="953" selection-end="953" vertical-scroll-proportion="0.6617647" vertical-offset="653" max-vertical-offset="1403">
+              <folding>
+                <element signature="e#39#67#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,8 +81,8 @@
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/resources/views/page/home.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
         <option value="$PROJECT_DIR$/resources/views/emails/quote.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
       </list>
     </option>
   </component>
@@ -365,17 +365,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/emails/quote.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="908" selection-end="908" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="1380">
+        <state line="5" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="276">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/emails/quote.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="29" selection-start="164" selection-end="164" vertical-scroll-proportion="0.1879085" vertical-offset="0" max-vertical-offset="612">
-          <folding />
+        <state line="46" column="7" selection-start="953" selection-end="953" vertical-scroll-proportion="0.6617647" vertical-offset="653" max-vertical-offset="1403">
+          <folding>
+            <element signature="e#39#67#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
