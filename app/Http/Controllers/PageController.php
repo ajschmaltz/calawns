@@ -50,7 +50,7 @@ class PageController extends Controller {
       $message->to('drew@mainstreetmower.com', 'Drew Schmaltz')->subject('New Quote!');
     });
 
-    Flash::success('Thank you for your interest in C.A. Lawns.  We will be in contact between 4:00pm - 6:00pm');
+    Flash::success('Thank you for your interest in C.A. Lawns.  We will be in contact soon.');
 
     return back();
   }
