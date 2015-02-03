@@ -1,4 +1,4 @@
-@extends('yz')
+@extends('master')
 
 @section('sidebar')
   <div class="row">

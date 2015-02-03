@@ -1,1 +1,1 @@
-&copy 2015 C.A. Lawns &middot; (407) 625-0742 &middot;
+&copy 2015 C.A. Lawns &middot; (407) 625-0742
