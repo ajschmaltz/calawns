@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7b52f47-dc76-41e9-b1ae-a56d108cc284" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/mail.php" afterPath="$PROJECT_DIR$/config/mail.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/emails/quote.blade.php" afterPath="$PROJECT_DIR$/resources/views/emails/quote.blade.php" />
     </list>
     <ignored path="calawns.iws" />
@@ -26,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PageController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PageController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="49" selection-start="995" selection-end="995" vertical-scroll-proportion="0.48856208" vertical-offset="759" max-vertical-offset="1449">
+            <state line="46" column="31" selection-start="977" selection-end="992" vertical-scroll-proportion="0.0" vertical-offset="745" max-vertical-offset="1449">
               <folding>
                 <element signature="e#39#67#0" expanded="true" />
               </folding>
@@ -37,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mail.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="mail.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/mail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="0" selection-start="3988" selection-end="3988" vertical-scroll-proportion="0.0" vertical-offset="2378" max-vertical-offset="2990">
+            <state line="95" column="27" selection-start="3173" selection-end="3173" vertical-scroll-proportion="2.7810457" vertical-offset="483" max-vertical-offset="2990">
               <folding />
             </state>
           </provider>
@@ -49,7 +50,7 @@
       <file leaf-file-name="quote.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/emails/quote.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="138">
+            <state line="0" column="0" selection-start="0" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="276">
               <folding />
             </state>
           </provider>
@@ -73,9 +74,9 @@
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/resources/views/page/home.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
-        <option value="$PROJECT_DIR$/config/mail.php" />
-        <option value="$PROJECT_DIR$/resources/views/emails/quote.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
+        <option value="$PROJECT_DIR$/resources/views/emails/quote.blade.php" />
+        <option value="$PROJECT_DIR$/config/mail.php" />
       </list>
     </option>
   </component>
@@ -372,26 +373,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="0" selection-start="3988" selection-end="3988" vertical-scroll-proportion="0.0" vertical-offset="2378" max-vertical-offset="2990">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/emails/quote.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+        <state line="0" column="0" selection-start="0" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="49" selection-start="995" selection-end="995" vertical-scroll-proportion="0.48856208" vertical-offset="759" max-vertical-offset="1449">
+        <state line="46" column="31" selection-start="977" selection-end="992" vertical-scroll-proportion="0.0" vertical-offset="745" max-vertical-offset="1449">
           <folding>
             <element signature="e#39#67#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="27" selection-start="3173" selection-end="3173" vertical-scroll-proportion="2.7810457" vertical-offset="483" max-vertical-offset="2990">
+          <folding />
         </state>
       </provider>
     </entry>
