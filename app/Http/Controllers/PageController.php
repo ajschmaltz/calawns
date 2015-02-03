@@ -1,5 +1,7 @@
 <?php namespace App\Http\Controllers;
 
+use Illuminate\Http\Request;
+
 class PageController extends Controller {
 
 	/*
@@ -36,6 +38,17 @@ class PageController extends Controller {
   public function about()
   {
     return view('page.about');
+  }
+
+  public function quote(Request $request)
+  {
+
+    Mail::send('emails.welcome', $request->all(), function($message)
+    {
+      $message->to('drew@mainstreetmower.com', 'Drew Schmaltz')->subject('New Quote!');
+    });
+
+    return back();
   }
 
 }

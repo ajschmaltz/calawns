@@ -15,6 +15,8 @@ Route::get('/', 'PageController@index');
 
 Route::get('/about', 'PageController@about');
 
+Route::post('/', 'PageController@quote');
+
 Route::get('home', 'HomeController@index');
 
 Route::controllers([
