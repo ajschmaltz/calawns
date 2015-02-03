@@ -44,10 +44,12 @@ class PageController extends Controller {
   public function quote(Request $request)
   {
 
-    return Mail::send('emails.quote', $request->all(), function($message)
+    Mail::send('emails.quote', $request->all(), function($message)
     {
       $message->to('drew@mainstreetmower.com', 'Drew Schmaltz')->subject('New Quote!');
     });
+
+    return Mail::failures();
 
     return back();
   }
