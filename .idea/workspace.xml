@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7b52f47-dc76-41e9-b1ae-a56d108cc284" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/emails/quote.blade.php" afterPath="$PROJECT_DIR$/resources/views/emails/quote.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
     </list>
     <ignored path="calawns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="PageController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="23" selection-start="969" selection-end="974" vertical-scroll-proportion="0.0" vertical-offset="759" max-vertical-offset="1449">
+            <state line="46" column="33" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="759" max-vertical-offset="1449">
               <folding>
                 <element signature="e#39#67#0" expanded="true" />
               </folding>
@@ -372,7 +371,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="23" selection-start="969" selection-end="974" vertical-scroll-proportion="0.0" vertical-offset="759" max-vertical-offset="1449">
+        <state line="46" column="33" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0" vertical-offset="759" max-vertical-offset="1449">
           <folding>
             <element signature="e#39#67#0" expanded="true" />
           </folding>
