@@ -17,6 +17,10 @@ Route::get('about', 'PageController@about');
 
 Route::get('windermere', 'PageController@windermere');
 
+Route::get('dr-phillips', 'PageController@windermere');
+
+Route::get('winter-garden', 'PageController@windermere');
+
 Route::post('/', 'PageController@quote');
 
 Route::get('home', 'HomeController@index');

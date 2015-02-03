@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7b52f47-dc76-41e9-b1ae-a56d108cc284" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/page/windermere.blade.php" afterPath="$PROJECT_DIR$/resources/views/page/windermere.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
     </list>
     <ignored path="calawns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="PageController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="21" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1587">
+            <state line="44" column="2" selection-start="928" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1587">
               <folding>
                 <element signature="e#39#67#0" expanded="true" />
               </folding>
@@ -54,19 +54,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="windermere.blade.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="windermere.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/page/windermere.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="152" selection-start="2582" selection-end="2582" vertical-scroll-proportion="0.640625" vertical-offset="1034" max-vertical-offset="1610">
+            <state line="61" column="152" selection-start="2582" selection-end="2582" vertical-scroll-proportion="0.0" vertical-offset="1034" max-vertical-offset="1610">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="routes.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="51" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
+            <state line="21" column="54" selection-start="649" selection-end="649" vertical-scroll-proportion="0.46859083" vertical-offset="0" max-vertical-offset="644">
               <folding />
             </state>
           </provider>
@@ -138,11 +138,11 @@
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/resources/views/master.blade.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PageController.php" />
         <option value="$PROJECT_DIR$/resources/views/block/footer.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/page/about.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/page/windermere.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
       </list>
     </option>
   </component>
@@ -467,22 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="51" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="21" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1587">
-          <folding>
-            <element signature="e#39#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/block/footer.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
@@ -499,7 +483,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/page/windermere.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="152" selection-start="2582" selection-end="2582" vertical-scroll-proportion="0.640625" vertical-offset="1034" max-vertical-offset="1610">
+        <state line="61" column="152" selection-start="2582" selection-end="2582" vertical-scroll-proportion="0.0" vertical-offset="1034" max-vertical-offset="1610">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="2" selection-start="928" selection-end="1000" vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="1587">
+          <folding>
+            <element signature="e#39#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="54" selection-start="649" selection-end="649" vertical-scroll-proportion="0.46859083" vertical-offset="0" max-vertical-offset="644">
           <folding />
         </state>
       </provider>
