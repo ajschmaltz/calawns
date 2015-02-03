@@ -59,7 +59,7 @@
       <h2>The Right Equipment</h2>
       <p>They say, you know when you have the right tool for the job.  It is important and not every landscaping company has the equipment it takes to serve Isleworth.  Our equipment is new, reliable and kept clean.</p>
       <h2>On Time</h2>
-      <p>It is disrespectful to be late.  You're not going to be  
+      <p>It is disrespectful to be late.  Our current clients will agree, we do whatever it takes to be at your property at the same time each week.</p>
     </div>
   </div>
 @stop
