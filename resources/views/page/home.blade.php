@@ -7,7 +7,7 @@
       <p>The ONLY required field is phone.</p>
     </div>
   </div>
-  {{ Form::open(['url' => '/', 'role' => 'form', 'id' => 'quoteform']) }}
+  {!! Form::open(['url' => '/', 'role' => 'form', 'id' => 'quoteform']) !!}
     <div class="form-group">
       <label for="name">Name</label>
       <input type="text" class="form-control" name="name" id="name" placeholder="Name">
@@ -40,7 +40,7 @@
       <p>Calls are returned between 4pm - 6pm M-F</p>
       <input type="submit" class="btn btn-primary" value="Get Quote" />
     </div>
-  {{ Form::close() }}
+  {!! Form::close() !!}
 @stop
 
 @section('content')
