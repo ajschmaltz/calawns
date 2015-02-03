@@ -39,17 +39,18 @@
   <div id="content" class="container-fluid">
     <div class="row">
       <div class="col-md-4 col-md-push-8 col-sm-5 col-sm-push-7">
-        @yield('sidebar')
+        @yield ('sidebar')
       </div>
       <div class="col-md-8 col-md-pull-4 col-sm-7 col-sm-pull-5">
-        @yield('content')
+        @include ('flash::message')
+        @yield ('content')
       </div>
     </div>
   </div>
 
   <div id="footer" class="container-fluid text-center">
     <footer>
-      @include('block.footer')
+      @include ('block.footer')
     </footer>
   </div>
 </div>

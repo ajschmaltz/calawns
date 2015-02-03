@@ -145,6 +145,7 @@ return [
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
     'Illuminate\Html\HtmlServiceProvider',
+    'Laracasts\Flash\FlashServiceProvider',
 
 	],
 
@@ -194,6 +195,7 @@ return [
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
     'Form'      => 'Illuminate\Html\FormFacade',
+    'Flash' => 'Laracasts\Flash\Flash',
 
 	],
 
