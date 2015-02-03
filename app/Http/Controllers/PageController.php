@@ -44,7 +44,7 @@ class PageController extends Controller {
 
   public function windermere()
   {
-    return view('pages.windermere');
+    return view('page.windermere');
   }
 
   public function quote(Request $request)
