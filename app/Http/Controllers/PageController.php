@@ -49,8 +49,6 @@ class PageController extends Controller {
       $message->to('drew@mainstreetmower.com', 'Drew Schmaltz')->subject('New Quote!');
     });
 
-    return Mail::failures();
-
     return back();
   }
 
