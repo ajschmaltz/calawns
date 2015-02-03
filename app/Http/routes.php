@@ -13,7 +13,9 @@
 
 Route::get('/', 'PageController@index');
 
-Route::get('/about', 'PageController@about');
+Route::get('about', 'PageController@about');
+
+Route::get('windermere', 'PageController@windermere');
 
 Route::post('/', 'PageController@quote');
 
